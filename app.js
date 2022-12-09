@@ -1,8 +1,4 @@
-// SUBSCRIBE ==> https://www.youtube.com/channel/UCzWS-AiirxpTDq_AGSg9Fhg
-// JOIN FACEBOOK GROUP ==> https://www.facebook.com/groups/html.css.javascript.alb
 
-// SUBSCRIBE ==> https://www.youtube.com/channel/UCzWS-AiirxpTDq_AGSg9Fhg
-// JOIN FACEBOOK GROUP ==> https://www.facebook.com/groups/html.css.javascript.alb
 const input = document.querySelector('input')
 const btn = document.querySelector('button')
 const card = document.querySelector('.card')
@@ -70,8 +66,3 @@ btn.addEventListener('click', async () => {
         `
     }
 })
-// SUBSCRIBE ==> https://www.youtube.com/channel/UCzWS-AiirxpTDq_AGSg9Fhg
-// JOIN FACEBOOK GROUP ==> https://www.facebook.com/groups/html.css.javascript.alb
-
-// SUBSCRIBE ==> https://www.youtube.com/channel/UCzWS-AiirxpTDq_AGSg9Fhg
-// JOIN FACEBOOK GROUP ==> https://www.facebook.com/groups/html.css.javascript.alb
